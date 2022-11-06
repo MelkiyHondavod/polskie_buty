@@ -1,0 +1,20 @@
+{
+    "common_data": {
+        "folder_path": "C:\\Users\\nikita\\Desktop\\save\\polskie_buty"
+    },
+
+    "black_sheet": {},
+        
+    "item_possible_attributes": {
+        "title":"",
+        "price":{
+                "pln":0,
+                "usd":0,
+                "eur":0,
+                "byn":0
+                },
+        "brand":"",
+        "link":"",
+        "shop_labels": []
+    }
+}

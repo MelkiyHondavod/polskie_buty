@@ -1,0 +1,1130 @@
+{
+    "highest_id": 0,
+    "shop_pattern": {
+        "id": 0,
+        "url": "",
+        "offers": {},
+        "search_params": {
+            "url_construct": {
+                "search_prop": [],
+                "replacing": {}
+            }
+        },
+        "pages_params": {
+            "next_page_button": {
+                "xpath": "",
+                "mode": ""
+            }
+        },
+        "item_xpath": false,
+        "attributes_xpath": {}
+    },
+    "shops_db": {
+        "0": {
+            "id": 0,
+            "url": "https://www.zalando.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [
+                        "katalog/?q="
+                    ],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": "//div[@class='DT5BTM w8MdNG cYylcv QylWsg _75qWlu iOzucJ JT3_zV DvypSJ']",
+            "attributes_xpath": {
+                "title": {
+                    "xpath": "//h3[@class='_0Qm8W1 u-6V88 FxZV-M pVrzNP ZkIJC- r9BRio qXofat EKabf7 nBq1-s _2MyPg2']",
+                    "mode": "text"
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": "//a[@class='JT3_zV CKDt_l ONArL- _2dqvZS CKDt_l LyRfpJ']",
+                    "mode": "href"
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "1": {
+            "id": 1,
+            "url": "https://worldbox.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "2": {
+            "id": 2,
+            "url": "https://chmielna20.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "3": {
+            "id": 3,
+            "url": "https://7kicks.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "4": {
+            "id": 4,
+            "url": "https://runcolors.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "5": {
+            "id": 5,
+            "url": "https://sneakerstudio.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "6": {
+            "id": 6,
+            "url": "https://sklep.sizeer.com",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "7": {
+            "id": 7,
+            "url": "https://www.eobuwie.com.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "8": {
+            "id": 8,
+            "url": "https://answear.com",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "9": {
+            "id": 9,
+            "url": "https://www.eobuwie.com.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "10": {
+            "id": 10,
+            "url": "https://galeriamarek.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "11": {
+            "id": 11,
+            "url": "https://50style.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "12": {
+            "id": 12,
+            "url": "https://streetsupply.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "13": {
+            "id": 13,
+            "url": "https://www.vitkac.com/pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "14": {
+            "id": 14,
+            "url": "https://gomez.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "15": {
+            "id": 15,
+            "url": "https://modivo.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "16": {
+            "id": 16,
+            "url": "http://www.sportjam.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "17": {
+            "id": 17,
+            "url": "https://www.active.sklep.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "18": {
+            "id": 18,
+            "url": "https://supersklep.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "19": {
+            "id": 19,
+            "url": "https://www.mantoshop.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "20": {
+            "id": 20,
+            "url": "https://www.uterque.com/pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "21": {
+            "id": 21,
+            "url": "https://www.massimodutti.com/pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        },
+        "22": {
+            "id": 22,
+            "url": "https://www.spartoo.pl",
+            "offers": {},
+            "search_params": {
+                "url_construct": {
+                    "search_prop": [],
+                    "replacing": {}
+                }
+            },
+            "item_xpath": false,
+            "attributes_xpath": {
+                "title": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "price": {
+                    "pln": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "usd": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "eur": {
+                        "xpath": false,
+                        "mode": false
+                    },
+                    "byn": {
+                        "xpath": false,
+                        "mode": false
+                    }
+                },
+                "brand": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "link": {
+                    "xpath": false,
+                    "mode": false
+                },
+                "shop_labels": {
+                    "xpath": false,
+                    "mode": false
+                }
+            }
+        }
+    }
+}
